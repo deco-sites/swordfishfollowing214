@@ -31,7 +31,7 @@
       "--tab-radius": "0.5rem"
     },
     "mainColors": {
-      "base-100": "#FDE5BE",
+      "base-100": "#fff",
       "primary": "#FF6502",
       "secondary": "#FEC902",
       "tertiary": "#FF91B2",
@@ -350,7 +350,7 @@
     "__resolveType": "site/apps/site.ts",
     "firstByteThresholdMS": false,
     "theme": {
-      "__resolveType": "Neutral"
+      "__resolveType": "Groovy Vibes"
     }
   },
   "collections/blog/posts/b9f8a13d4bee": {
