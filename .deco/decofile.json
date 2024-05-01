@@ -106,7 +106,12 @@
     "__resolveType": "site/sections/Footer.tsx"
   },
   "Preview /sections/Header.tsx": {
-    "__resolveType": "site/sections/Header.tsx"
+    "__resolveType": "site/sections/Header.tsx",
+    "navigation": {
+      "links": [],
+      "buttons": []
+    },
+    "logo": {}
   },
   "Preview /sections/Hero.tsx": {
     "__resolveType": "site/sections/Hero.tsx",
@@ -185,7 +190,7 @@
       "--tab-radius": "0.5rem"
     },
     "mainColors": {
-      "base-100": "#FFF7D2",
+      "base-100": "#Fff",
       "primary": "#A73C5A",
       "secondary": "#FFBC55",
       "tertiary": "#FF9900",
@@ -350,7 +355,7 @@
     "__resolveType": "site/apps/site.ts",
     "firstByteThresholdMS": false,
     "theme": {
-      "__resolveType": "Groovy Vibes"
+      "__resolveType": "Sunset Glow"
     }
   },
   "collections/blog/posts/b9f8a13d4bee": {
@@ -372,5 +377,9 @@
         "content": "<p>And now we finally get to the content, that is going to be minimal</p>"
       }
     }
+  },
+  "wap": {
+    "__resolveType": "decohub/apps/wap.ts",
+    "platform": "wap"
   }
 }
